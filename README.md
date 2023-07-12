@@ -60,13 +60,13 @@ This project is licensed under the ISC VS CODE LICENSE.
 
 ## Screenshots
 <div align="center">
-  <img src="screenshorts/1.png" alt="Screenshot 1" width="50" />
-  <img src="screenshorts/2.png" alt="Screenshot 2" width="50" />
-  <img src="screenshorts/3.png" alt="Screenshot 3" width="50" />
-  <img src="screenshorts/4.png" alt="Screenshot 4" width="50" />
-  <img src="screenshorts/5.png" alt="Screenshot 5" width="50" />
-  <img src="screenshorts/6.png" alt="Screenshot 6" width="50" />
-  <img src="screenshorts/7.png" alt="Screenshot 7" width="50" />
+  <img src="screenshorts/1.png" alt="Screenshot 1" width="200" />
+  <img src="screenshorts/2.png" alt="Screenshot 2" width="200" />
+  <img src="screenshorts/3.png" alt="Screenshot 3" width="200" />
+  <img src="screenshorts/4.png" alt="Screenshot 4" width="200" />
+  <img src="screenshorts/5.png" alt="Screenshot 5" width="200" />
+  <img src="screenshorts/6.png" alt="Screenshot 6" width="200" />
+  <img src="screenshorts/7.png" alt="Screenshot 7" width="200" />
 </div>
 
 
