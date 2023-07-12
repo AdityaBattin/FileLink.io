@@ -3,6 +3,30 @@
 
 Filelink.io is a professional and user-friendly file sharing application that allows users to securely share files through unique links. The project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring a robust and efficient backend.
 
+
+## Screenshots
+
+![Screenshot 1](screenshots/1.png)
+*Home Page*
+
+![Screenshot 2](screenshots/2.png)
+*Features Page*
+
+![Screenshot 3](screenshots/3.png)
+*NavBar Page*
+
+![Screenshot 4](screenshots/4.png)
+*Upload Page*
+
+![Screenshot 5](screenshots/5.png)
+*Link Sharing page*
+
+![Screenshot 6](screenshots/6.png)
+*Download Page*
+
+![Screenshot 7](screenshots/7.png)
+*File not found page*
+
 ## Features
 
 - **Secure and Reliable**: Filelink.io prioritizes the security and reliability of user data, ensuring a safe and seamless file sharing experience.
