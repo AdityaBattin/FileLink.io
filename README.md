@@ -41,6 +41,11 @@ Filelink.io is a professional and user-friendly file sharing application that al
 3. Download files using unique URLs at `/download/:uuid`.
 4. Send download links via email using the `/api/upload/send` route.
 
+## Postman API Documentation
+
+For detailed API documentation and examples, please refer to our [Postman API Documentation](https://documenter.getpostman.com/view/23026707/2s946chEvE).
+
+
 ## Credits
 
 - This project was created by Aditya Battin.
