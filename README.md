@@ -10,9 +10,8 @@ Filelink.io is a professional and user-friendly file sharing application that al
   <img src="screenshorts/2.png" alt="Screenshot 2" width="400" />
 </div>
 <div align="center">
-  <em>Home Page</em>
-  <em>           </em>
-  <em>Features Page</em>
+  <em>Home Page                  .</em>
+  <em>.               Features Page</em>
 </div>
 
 <div align="center">
@@ -20,8 +19,8 @@ Filelink.io is a professional and user-friendly file sharing application that al
   <img src="screenshorts/4.png" alt="Screenshot 4" width="400" />
 </div>
 <div align="center">
-  <em>Navbar Featues</em>
-  <em>Upload Page</em>
+  <em>Navbar Featues               .</em>
+  <em>.                  Upload Page</em>
 </div>
 
 <div align="center">
@@ -29,8 +28,8 @@ Filelink.io is a professional and user-friendly file sharing application that al
   <img src="screenshorts/6.png" alt="Screenshot 6" width="400" />
 </div>
 <div align="center">
-  <em>Share Link Page</em>
-  <em>Download File Page</em>
+  <em>Share Link Page               .</em>
+  <em>.             Download File Page</em>
 </div>
 
 <div align="center">
