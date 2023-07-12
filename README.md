@@ -3,43 +3,6 @@
 
 Filelink.io is a professional and user-friendly file sharing application that allows users to securely share files through unique links. The project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring a robust and efficient backend.
 
-
-## Screenshots
-<div align="center">
-  <img src="screenshorts/1.png" alt="Screenshot 1" width="400" />
-  <img src="screenshorts/2.png" alt="Screenshot 2" width="400" />
-</div>
-<div align="center">
-  <em>Home Page                  .</em>
-  <em>.               Features Page</em>
-</div>
-
-<div align="center">
-  <img src="screenshorts/3.png" alt="Screenshot 3" width="400" />
-  <img src="screenshorts/4.png" alt="Screenshot 4" width="400" />
-</div>
-<div align="center">
-  <em>Navbar Featues               .</em>
-  <em>.                  Upload Page</em>
-</div>
-
-<div align="center">
-  <img src="screenshorts/5.png" alt="Screenshot 5" width="400" />
-  <img src="screenshorts/6.png" alt="Screenshot 6" width="400" />
-</div>
-<div align="center">
-  <em>Share Link Page               .</em>
-  <em>.             Download File Page</em>
-</div>
-
-<div align="center">
-  <img src="screenshorts/7.png" alt="Screenshot 7" width="400" />
-</div>
-<div align="center">
-  <em>File not found page</em>
-</div>
-
-
 ## Features
 
 - **Secure and Reliable**: Filelink.io prioritizes the security and reliability of user data, ensuring a safe and seamless file sharing experience.
@@ -91,3 +54,39 @@ For detailed API documentation and examples, please refer to our [Postman API Do
 ## License
 
 This project is licensed under the ISC VS CODE LICENSE.
+
+## Screenshots
+<div align="center">
+  <img src="screenshorts/1.png" alt="Screenshot 1" width="400" />
+  <img src="screenshorts/2.png" alt="Screenshot 2" width="400" />
+</div>
+<div align="center">
+  <em>Home Page                  .</em>
+  <em>.               Features Page</em>
+</div>
+
+<div align="center">
+  <img src="screenshorts/3.png" alt="Screenshot 3" width="400" />
+  <img src="screenshorts/4.png" alt="Screenshot 4" width="400" />
+</div>
+<div align="center">
+  <em>Navbar Featues               .</em>
+  <em>.                  Upload Page</em>
+</div>
+
+<div align="center">
+  <img src="screenshorts/5.png" alt="Screenshot 5" width="400" />
+  <img src="screenshorts/6.png" alt="Screenshot 6" width="400" />
+</div>
+<div align="center">
+  <em>Share Link Page               .</em>
+  <em>.             Download File Page</em>
+</div>
+
+<div align="center">
+  <img src="screenshorts/7.png" alt="Screenshot 7" width="400" />
+</div>
+<div align="center">
+  <em>File not found page</em>
+</div>
+
