@@ -5,27 +5,40 @@ Filelink.io is a professional and user-friendly file sharing application that al
 
 
 ## Screenshots
+<div align="center">
+  <img src="screenshorts/1.png" alt="Screenshot 1" width="400" />
+  <img src="screenshorts/2.png" alt="Screenshot 2" width="400" />
+</div>
+<div align="center">
+  <em>Home Page</em>
+  <em>Features Page</em>
+</div>
 
-![Screenshot 1](screenshorts/1.png)
-*Home Page*
+<div align="center">
+  <img src="screenshorts/3.png" alt="Screenshot 3" width="400" />
+  <img src="screenshorts/4.png" alt="Screenshot 4" width="400" />
+</div>
+<div align="center">
+  <em>Navbar Featues</em>
+  <em>Upload Page</em>
+</div>
 
-![Screenshot 2](screenshorts/2.png)
-*Features Page*
+<div align="center">
+  <img src="screenshorts/5.png" alt="Screenshot 5" width="400" />
+  <img src="screenshorts/6.png" alt="Screenshot 6" width="400" />
+</div>
+<div align="center">
+  <em>Share Link Page</em>
+  <em>Download File Page</em>
+</div>
 
-![Screenshot 3](screenshorts/3.png)
-*NavBar Page*
+<div align="center">
+  <img src="screenshorts/7.png" alt="Screenshot 7" width="400" />
+</div>
+<div align="center">
+  <em>File not found page</em>
+</div>
 
-![Screenshot 4](screenshorts/4.png)
-*Upload Page*
-
-![Screenshot 5](screenshorts/5.png)
-*Link Sharing page*
-
-![Screenshot 6](screenshorts/6.png)
-*Download Page*
-
-![Screenshot 7](screenshorts/7.png)
-*File not found page*
 
 ## Features
 
