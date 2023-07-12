@@ -3,9 +3,8 @@
 
 Filelink.io is a professional and user-friendly file sharing application that allows users to securely share files through unique links. The project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring a robust and efficient backend.
 
-<div align='center'>
   [![Youtube Video](http://img.youtube.com/vi/zq0TuNqV0Ew/0.jpg)](http://www.youtube.com/watch?v=zq0TuNqV0Ew)
-</div>
+
 
 ## Features
 
@@ -61,36 +60,13 @@ This project is licensed under the ISC VS CODE LICENSE.
 
 ## Screenshots
 <div align="center">
-  <img src="screenshorts/1.png" alt="Screenshot 1" width="400" />
-  <img src="screenshorts/2.png" alt="Screenshot 2" width="400" />
-</div>
-<div align="center">
-  <em>Home Page                  .</em>
-  <em>.               Features Page</em>
-</div>
-
-<div align="center">
-  <img src="screenshorts/3.png" alt="Screenshot 3" width="400" />
-  <img src="screenshorts/4.png" alt="Screenshot 4" width="400" />
-</div>
-<div align="center">
-  <em>Navbar Featues               .</em>
-  <em>.                  Upload Page</em>
+  <img src="screenshorts/1.png" alt="Screenshot 1" width="50" />
+  <img src="screenshorts/2.png" alt="Screenshot 2" width="50" />
+  <img src="screenshorts/3.png" alt="Screenshot 3" width="50" />
+  <img src="screenshorts/4.png" alt="Screenshot 4" width="50" />
+  <img src="screenshorts/5.png" alt="Screenshot 5" width="50" />
+  <img src="screenshorts/6.png" alt="Screenshot 6" width="50" />
+  <img src="screenshorts/7.png" alt="Screenshot 7" width="50" />
 </div>
 
-<div align="center">
-  <img src="screenshorts/5.png" alt="Screenshot 5" width="400" />
-  <img src="screenshorts/6.png" alt="Screenshot 6" width="400" />
-</div>
-<div align="center">
-  <em>Share Link Page               .</em>
-  <em>.             Download File Page</em>
-</div>
-
-<div align="center">
-  <img src="screenshorts/7.png" alt="Screenshot 7" width="400" />
-</div>
-<div align="center">
-  <em>File not found page</em>
-</div>
 
