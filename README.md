@@ -6,25 +6,25 @@ Filelink.io is a professional and user-friendly file sharing application that al
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
+![Screenshot 1](screenshorts/1.png)
 *Home Page*
 
-![Screenshot 2](screenshots/2.png)
+![Screenshot 2](screenshorts/2.png)
 *Features Page*
 
-![Screenshot 3](screenshots/3.png)
+![Screenshot 3](screenshorts/3.png)
 *NavBar Page*
 
-![Screenshot 4](screenshots/4.png)
+![Screenshot 4](screenshorts/4.png)
 *Upload Page*
 
-![Screenshot 5](screenshots/5.png)
+![Screenshot 5](screenshorts/5.png)
 *Link Sharing page*
 
-![Screenshot 6](screenshots/6.png)
+![Screenshot 6](screenshorts/6.png)
 *Download Page*
 
-![Screenshot 7](screenshots/7.png)
+![Screenshot 7](screenshorts/7.png)
 *File not found page*
 
 ## Features
