@@ -25,7 +25,7 @@ const Footer = () => {
           <a className=" flex items-center uppercase font-bold leading-snug text-white opacity-75 hover:opacity-100"
                   href="#pablo"> <AiOutlineYoutube /> </a>
           <a className="flex items-center uppercase font-bold leading-snug text-white opacity-75 hover:opacity-100"
-                  href="#pablo"> <SiPostman /> </a>    
+                  href="https://documenter.getpostman.com/view/23026707/2s946chEvE"> <SiPostman /> </a>    
         </div>
      </div> 
     </>
